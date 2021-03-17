@@ -1,0 +1,1 @@
+Invoke-RestMethod -Method Post -Uri http://localhost:1522 -Body 'from local web Serv'
